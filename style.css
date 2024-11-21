@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+:root {
+    --color-h2: #e1d4cf;
+    --colorFondoh2: #775548;
+    --colorVinculos: #ef6d24;
+    --colorLanacion: #3aabc4 ;
+    --colorLapagina: red;
+    --colorTextocolora: #d8b03b;
+}
+
+.header-01 {
+    width: 100%;
+}
+
+.nav-01 {
+    font-size: 23px;
+    width: 100;
+}
+
+h1 {
+    font-size: 35px;
+    padding: 30px 0 15px 0;
+}
+
+body {
+    background-color: #e1d4cf;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #775548;
+    padding: 10px;
+}
+
+h2 {
+    background-color: var(--colorFondoh2);
+    color: var(--color-h2);
+   
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.text-centrado {
+    padding: 22px;
+    font-size: 15px;
+}
+
+.text-centrado-2 {
+    padding: 5px;
+}
+
+p {
+    padding-bottom: 20px;
+}
+
+.texto-03 {
+    padding-right: 10px;
+}
+
+a {
+    color: var(--colorVinculos);
+}
+
+.la-nacion {
+    color: var(--colorLanacion);
+}
+
+.pagina-12 {
+    color: var(--colorLapagina);
+}
+
+.texto-color-a {
+    color: var(--colorTextocolora);
+}
+footer {
+    background-color: black;
+    color: #d8b03b;
+    text-align: center;
+    height: 100px;
+    padding: 100px;
+    margin-top: 100px;
+}
