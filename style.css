@@ -30,7 +30,7 @@ body {
     background-color: #e1d4cf;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #775548;
-    padding: 10px;
+    padding: 5px;
 }
 
 h2 {
@@ -38,12 +38,12 @@ h2 {
     color: var(--color-h2);
    
     font-size: 20px;
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 4px;
+    margin-bottom: 2px;
 }
 
 .text-centrado {
-    padding: 22px;
+    padding: 35px;
     font-size: 15px;
 }
 
@@ -52,7 +52,7 @@ h2 {
 }
 
 p {
-    padding-bottom: 20px;
+    padding-bottom: 5px;
 }
 
 .texto-03 {
