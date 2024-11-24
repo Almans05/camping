@@ -8,6 +8,7 @@ export default {
     build: {
         rollupOptions: {
             input: {
+                main: resolve(__dirname, 'index.html'),
                 Comollegar: resolve(__dirname, 'pages/Comollegar/index.html'),
                 Tarifas: resolve(__dirname, 'pages/Tarifas/index.html'),
                 Mediosdecontacto: resolve(__dirname, 'pages/Mediosdecontacto/index.html'),
