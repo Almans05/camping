@@ -8,9 +8,9 @@ export default {
     build: {
         rollupOptions: {
             input: {
-                contacto: resolve(__dirname, 'pages/Comollegar/index.html'),
-                servicios: resolve(__dirname, 'pages/Tarifas/index.html'),
-                productos: resolve(__dirname, 'pages/Mediosdecontacto/index.html'),
+                Comollegar: resolve(__dirname, 'pages/Comollegar/index.html'),
+                Tarifas: resolve(__dirname, 'pages/Tarifas/index.html'),
+                Mediosdecontacto: resolve(__dirname, 'pages/Mediosdecontacto/index.html'),
             }
         }
     }
